@@ -1,1 +1,1 @@
-MaterializeCSS sample theme for materialize.pl tutorial.
+MaterializeCSS sample theme for materializecss.pl tutorial.
