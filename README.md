@@ -1,1 +1,2 @@
-# MaterializeCSS sample theme for materializecss.com.pl tutorial. <br />
+# MaterializeCSS <br />
+sample theme for materializecss.com.pl tutorial. <br />
